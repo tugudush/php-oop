@@ -1,5 +1,7 @@
 <?php
 
+namespace PHPOOP;
+
 class Staff {
   protected $members = [];  
 

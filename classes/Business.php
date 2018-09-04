@@ -1,5 +1,7 @@
 <?php
 
+namespace PHPOOP;
+
 class Business {
   protected $staff;
 

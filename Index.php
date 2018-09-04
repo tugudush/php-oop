@@ -1,8 +1,16 @@
 <?php
 
+/*
 require 'classes/Person.php';
 require 'classes/Staff.php';
 require 'classes/Business.php';
+*/
+
+require 'vendor/autoload.php';
+
+use PHPOOP\Person;
+use PHPOOP\Staff;
+use PHPOOP\Business;
 
 $persons = [
   'Jerome',

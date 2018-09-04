@@ -1,5 +1,7 @@
 <?php
 
+namespace PHPOOP;
+
 class Person {
   protected $name;
 
