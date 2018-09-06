@@ -8,7 +8,7 @@ require 'classes/Business.php';
 
 require 'vendor/autoload.php';
 
-use PHPOOP\Person;
+use PHPOOP\Users\Person;
 use PHPOOP\Staff;
 use PHPOOP\Business;
 
