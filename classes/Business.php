@@ -1,5 +1,8 @@
 <?php
 
+namespace PHPOOP;
+use PHPOOP\Users\Person;
+
 class Business {
   protected $staff;
 
